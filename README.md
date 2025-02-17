@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the use of deep learning and computer vision techniques to predict the stability of block towers based on RGB images. The task requires a model to infer physical reasoning principles like gravity and balance purely from visual data. The study evaluates multiple deep-learning architectures to determine their effectiveness in solving this problem.
+This project explores the use of deep learning and computer vision techniques to predict the stability of block towers based solely on RGB images. The task requires a model to infer physical reasoning principles like gravity and balance purely from visual data. The study evaluates multiple deep-learning architectures to determine their effectiveness in solving this problem.
 
 ## Dataset
 
