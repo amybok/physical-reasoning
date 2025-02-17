@@ -1,4 +1,4 @@
-# Physical Reasoning: Predicting the Stability of Block Towers with Computer Vision Methods
+# Physical Reasoning: Predicting the Stability of Block Towers with Computer Vision Methods With Only Visual Cues
 
 ## Overview
 
